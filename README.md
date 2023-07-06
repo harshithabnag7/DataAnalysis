@@ -3,4 +3,5 @@ Visualization screenshots:
 
 1.Stats:
 
-![stats](stats.png)
+<img src="stats.png" alt="Stats" width="300" />
+
