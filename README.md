@@ -3,5 +3,5 @@ Visualization screenshots:
 
 1.Stats:
 
-<img src="stats.png" alt="Stats" width="300" />
+<img src="stats.png" alt="Stats" width="500" />
 
